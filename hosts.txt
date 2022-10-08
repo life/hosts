@@ -5,3 +5,4 @@
 ||cdn.r10.net/bnnr/^
 ||cdn.r10.net/rm/^
 .xyz^
+.tk^
