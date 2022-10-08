@@ -4,5 +4,6 @@
 ||cdn.r10.net/editor/^
 ||cdn.r10.net/bnnr/^
 ||cdn.r10.net/rm/^
+||cdn.r10.net/newbn/igtr.webp
 .xyz^
 .tk^
