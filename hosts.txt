@@ -1,4 +1,3 @@
 # Test
-||cdn.r10.net^
 ||idrydigital.com^
 .xyz^
