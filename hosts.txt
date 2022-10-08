@@ -1,3 +1,7 @@
 # Test
 ||idrydigital.com^
+||cdn.r10.net/newbn/^
+||cdn.r10.net/editor/^
+||cdn.r10.net/bnnr/^
+||cdn.r10.net/rm/^
 .xyz^
