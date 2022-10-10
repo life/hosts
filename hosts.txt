@@ -6,3 +6,5 @@
 0.0.0.0 cdn.r10.net/bnnr/ticimax22.gif
 .xyz^
 .tk^
+.gq^
+.ga^
