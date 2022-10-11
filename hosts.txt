@@ -1,9 +1,6 @@
 # Test
-||idrydigital.com^
-0.0.0.0 cdn.r10.net/newbn/igtr.webp
-0.0.0.0 cdn.r10.net/editor/27818/1648465821.gif
-0.0.0.0 cdn.r10.net/editor/100103/771510958.gif
-0.0.0.0 cdn.r10.net/bnnr/ticimax22.gif
+||idrydigital.com^$important
+||connectivity-check.ubuntu.com^$important
 .xyz^
 .tk^
 .gq^
