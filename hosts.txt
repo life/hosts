@@ -1,6 +1,5 @@
 # Test
 ||idrydigital.com^$important
-||connectivity-check.ubuntu.com^$important
 .xyz^
 .tk^
 .gq^
